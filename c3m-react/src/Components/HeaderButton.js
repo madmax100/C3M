@@ -1,5 +1,6 @@
-import Styles from 'C:/Users/Cirilo/Documents/C3m-site/c3m-react/src/Styles.css'
 import {Link} from 'react-router-dom'
+import React from 'react';
+
 
 function HeaderButton(props){
 	return(

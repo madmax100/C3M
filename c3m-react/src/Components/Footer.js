@@ -1,4 +1,3 @@
-import Styles from 'C:/Users/Cirilo/Documents/C3m-site/c3m-react/src/Styles.css'
 
 function Footer(){
 	return(
